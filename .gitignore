@@ -1,0 +1,6 @@
+# Default ignored files
+/.idea
+.idea/
+git-practice.iml
+src/main/resources/
+src/test/
