@@ -5,5 +5,8 @@ public class HelloGit {
         System.out.println("마스터에 커밋할꺼야222");
 
         System.out.println("마스터33");
+
+        System.out.println("첫번째 수정입니다.");
+        System.out.println("계속해서 진행되는 테스팅");
     }
 }
