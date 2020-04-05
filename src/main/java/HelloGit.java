@@ -12,6 +12,7 @@ public class HelloGit {
 
     public void test(){
         System.out.println("테스트한다");
+        System.out.println("하하하");
     }
 
     public void master(){
