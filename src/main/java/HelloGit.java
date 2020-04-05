@@ -18,5 +18,6 @@ public class HelloGit {
     public void master(){
         System.out.println("마스터!");
         System.out.println("마스ㅓ!!!");
+        System.out.println("마마마");
     }
 }
