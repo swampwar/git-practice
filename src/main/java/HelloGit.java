@@ -9,4 +9,8 @@ public class HelloGit {
         System.out.println("첫번째 수정입니다.");
         System.out.println("계속해서 진행되는 테스팅");
     }
+
+    public void test(){
+        System.out.println("테스트한다");
+    }
 }
